@@ -1,0 +1,1 @@
+Personal piano study by Juri Enes. Static HTML, owned images and OFL Lato fonts. No tracking scripts, sales form, secrets or build dependencies. Photos and workshop video attributed to PIANOHOF. The workshop video does not demonstrate the pedal exercise.
